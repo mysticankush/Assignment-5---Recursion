@@ -1,5 +1,5 @@
  /*  Program to print every third element of the fibonacci series
- * Compilation : gcc problem13.c
+ * Compilation : gcc problem4.c
  * Execution : ./a.out
  *
  * Ankush Chhabra 1910990144 29/07/21
